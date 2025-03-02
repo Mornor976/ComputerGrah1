@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ComputerGrah1.vcxproj, ComputerGraph1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  Shader.cpp
+C:\Users\vaces\Desktop\ComputerGrah2\ComputerGrah1\main.cpp(77,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vaces\Desktop\ComputerGrah2\ComputerGrah1\main.cpp(80,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vaces\Desktop\ComputerGrah2\ComputerGrah1\main.cpp(81,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vaces\Desktop\ComputerGrah2\ComputerGrah1\main.cpp(82,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ComputerGrah1.vcxproj -> C:\Users\vaces\Desktop\ComputerGrah2\x64\Debug\ComputerGraph1.exe
